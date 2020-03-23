@@ -10,7 +10,7 @@
 
 2、利用变差函数生成三维网络**对应restructure.py**
 
-<img src="https://github.com/Liyurun/restructure_digial_rock/blob/master/exponential_fig.png" width="150" height="150" /><img src="https://github.com/Liyurun/restructure_digial_rock/blob/master/gaussian_fig.png" width="150" height="150" /><img src="https://github.com/Liyurun/restructure_digial_rock/blob/master/scatter_fig.png.png" width="150" height="150" />
+<img src="https://github.com/Liyurun/restructure_digial_rock/blob/master/exponential_fig.png" width="150" height="150" /><img src="https://github.com/Liyurun/restructure_digial_rock/blob/master/gaussian_fig.png" width="150" height="150" /><img src="https://github.com/Liyurun/restructure_digial_rock/blob/master/spherical_fig.png.png" width="150" height="150" />
 
 3、将三维网络生成可视化文件**对应build_tif.py**
 
