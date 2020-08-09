@@ -1,6 +1,7 @@
 # restructure_digial_rock
 通过图片生成三维岩心（各向同性）
 
+##地质统计方法构建
 <img src="https://github.com/Liyurun/restructure_digial_rock/blob/master/GIF.gif" width="300" height="300" />
 
 利用Indicate Kriging方法，将一张CT图片生成三维的立体数字岩心
@@ -12,4 +13,5 @@
 
 3、将三维网络生成可视化文件**对应build_tif.py**
 
-
+## 变分自动编码器（VAE）
+interporo2020会议之后公布
