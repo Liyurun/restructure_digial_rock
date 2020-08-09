@@ -1,9 +1,9 @@
 # restructure_digial_rock
 通过图片生成三维岩心（各向同性）
 
-##地质统计方法构建
-<img src="https://github.com/Liyurun/restructure_digial_rock/blob/master/GIF.gif" width="300" height="300" />
 
+<img src="https://github.com/Liyurun/restructure_digial_rock/blob/master/GIF.gif" width="300" height="300" />
+##地质统计方法构建
 利用Indicate Kriging方法，将一张CT图片生成三维的立体数字岩心
 主要分为三步：
 
